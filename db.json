@@ -1,0 +1,534 @@
+{
+ 
+  "Categories": {
+    "architecture": [
+      {
+        "id": 1,
+        "title": "La Mosquée Hassan II",
+        "description": "Chef-d'œuvre moderne au bord de l’Atlantique, riche en mosaïques et marbre. Minaret impressionnant et symbole de grandeur de l’art marocain.",
+        "city": "Casablanca",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/La Mosquée Hassan II.jpg"
+      },
+      {
+        "id": 2,
+        "title": "La Médina de Fès",
+        "description": "Labyrinthe de ruelles anciennes, medersas et fontaines décorées. Patrimoine UNESCO qui reflète le passé glorieux du Maroc.",
+        "city": "Fès",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/La Médina de Fès.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Kasbah d’Aït Ben Haddou",
+        "description": "Ancienne cité fortifiée en pisé, classée UNESCO. Lieu de passage des caravanes et témoin de l’architecture berbère.",
+        "city": "Ouarzazate",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Kasbah d’Aït Ben Haddou.jpg"
+      },
+      {
+        "id": 4,
+        "title": "La Koutoubia",
+        "description": "Grande mosquée de Marrakech avec minaret du XIIe siècle. Symbole religieux et architectural de la ville ocre.",
+        "city": "Marrakech",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/La Koutoubia.jpg"
+      },
+      {
+        "id": 5,
+        "title": "La Médina de Chefchaouen",
+        "description": "Maisons bleues pittoresques et architecture andalouse-mauresque. Atmosphère calme et authentique dans les montagnes.",
+        "city": "Chefchaouen",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/La Médina de Chefchaouen.jpg"
+      },
+      {
+        "id": 6,
+        "title": "La Tour Hassan",
+        "description": "Minaret inachevé du XIIe siècle, entouré du mausolée Mohammed V. Symbole architectural de la capitale marocaine.",
+        "city": "Rabat",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/La Tour Hassan.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Palais Bahia",
+        "description": "Chef-d'œuvre du XIXe siècle, construit pour le grand vizir Si Moussa, avec de magnifiques jardins et salons richement décorés.",
+        "city": "Marrakech",
+        "status": "appending",
+        "last_edit": "2025-09-22",
+        "image": "./image/Palais Bahia.jpg"
+      }
+    ],
+    "gastronomie": [
+      {
+        "id": 8,
+        "title": "Couscous",
+        "description": "Plat emblématique à base de semoule, légumes et viande. Symbole de convivialité, surtout consommé le vendredi.",
+        "city": "Partout au Maroc",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Couscous.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Tagine",
+        "description": "Plat mijoté dans un récipient en terre cuite. Décliné en multiples recettes comme poulet-citron ou agneau-pruneaux.",
+        "city": "Marrakech, Fès, Rabat",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Tagine.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Pastilla",
+        "description": "Feuilleté sucré-salé à base de pigeon ou poulet. Mélange d’amandes, cannelle et épices, servi lors de fêtes.",
+        "city": "Fès",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Pastilla.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Harira",
+        "description": "Soupe nourrissante avec tomates, lentilles et pois chiches. Servie surtout pendant le Ramadan en famille.",
+        "city": "Casablanca, Rabat, Marrakech",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Harira.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Rfissa",
+        "description": "Plat traditionnel avec msemen, poulet et lentilles. Spécialité servie lors de grandes occasions et naissances.",
+        "city": "Casablanca",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Rfissa.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Thé à la menthe",
+        "description": "Symbole d’hospitalité, préparé avec thé vert, menthe fraîche et sucre. Rituel quotidien au Maroc.",
+        "city": "Partout au Maroc",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Thé à la menthe.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Mechoui",
+        "description": "Agneau rôti lentement dans un four traditionnel en terre, spécialité prisée lors des fêtes et mariages marocains.",
+        "city": "Marrakech, Atlas",
+        "status": "appending",
+        "last_edit": "2025-09-22",
+        "image": "./image/Mechoui.jpg"
+      }
+    ],
+    "habits": [
+      {
+        "id": 15,
+        "title": "Djellaba",
+        "description": "Tunique longue avec capuche, portée par hommes et femmes. Adaptée à toutes saisons, symbole vestimentaire marocain.",
+        "city": "Partout au Maroc",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Djellaba.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Caftan",
+        "description": "Tenue féminine élégante et brodée, portée lors des mariages. Symbole de raffinement et de féminité.",
+        "city": "Fès, Rabat, Marrakech",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Caftan.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Takchita",
+        "description": "Version luxueuse du caftan en deux pièces. Vêtement prestigieux des mariées et cérémonies.",
+        "city": "Rabat, Casablanca",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Takchita.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Gandoura",
+        "description": "Tunique légère sans capuche, simple ou brodée. Très populaire l’été pour son confort.",
+        "city": "Partout au Maroc",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Gandoura.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Babouches (Belgha)",
+        "description": "Chaussures traditionnelles en cuir souple. Portées au quotidien et lors de cérémonies.",
+        "city": "Fès, Marrakech",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Babouches.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Burnous",
+        "description": "Grande cape en laine avec capuche, utilisée en hiver. Protège contre le froid des montagnes.",
+        "city": "Moyen Atlas, Rif",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Burnous.jpg"
+      },
+      {
+        "id": 21,
+        "title": "Handira",
+        "description": "Couverture traditionnelle berbère ornée de sequins argentés, souvent portée comme vêtement de mariage.",
+        "city": "Moyen Atlas",
+        "status": "appending",
+        "last_edit": "2025-09-22",
+        "image": "./image/Handira.jpg"
+      }
+    ],
+    "musique_danse": [
+      {
+        "id": 22,
+        "title": "Gnawa",
+        "description": "Musique spirituelle afro-marocaine avec guembri et crotales. Tradition rituelle mêlant chants et danses.",
+        "city": "Essaouira, Marrakech",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Gnawa.jpg"
+      },
+      {
+        "id": 23,
+        "title": "Andalouse (Al-Ala)",
+        "description": "Musique héritée d’Al-Andalus, composée de poèmes chantés. Préservée dans les mariages et cérémonies.",
+        "city": "Fès, Tétouan",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Andalouse.jpg"
+      },
+      {
+        "id": 24,
+        "title": "Chaâbi",
+        "description": "Musique populaire festive, très présente dans les mariages. Rythme entraînant et accessible à tous.",
+        "city": "Partout au Maroc",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Chaabi.jpg"
+      },
+      {
+        "id": 25,
+        "title": "Ahidous",
+        "description": "Danse collective amazighe avec tambours traditionnels. Pratiquée en cercle dans le Moyen Atlas.",
+        "city": "Moyen Atlas",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Ahidous.jpg"
+      },
+      {
+        "id": 26,
+        "title": "Ahouach",
+        "description": "Danse amazighe joyeuse du Haut Atlas. Chants et percussions rythment les mouvements collectifs.",
+        "city": "Haut Atlas, Souss",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Ahouach.jpg"
+      },
+      {
+        "id": 27,
+        "title": "Malhoun",
+        "description": "Poésie chantée en dialecte marocain accompagnée d’instruments. Raconte des histoires populaires et spirituelles.",
+        "city": "Meknès, Fès",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Malhoun.jpg"
+      },
+      {
+        "id": 28,
+        "title": "Issawa",
+        "description": "Musique spirituelle et rituelle avec tambours et hautbois, issue de confréries soufies marocaines.",
+        "city": "Meknès",
+        "status": "appending",
+        "last_edit": "2025-09-22",
+        "image": "./image/Issawa.jpg"
+      }
+    ],
+    "artisanat": [
+      {
+        "id": 29,
+        "title": "Zellige",
+        "description": "Carreaux en céramique colorés et géométriques. Décorent mosquées, palais et maisons traditionnelles.",
+        "city": "Fès, Meknès",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Zellige.jpg"
+      },
+      {
+        "id": 30,
+        "title": "Tapis berbères",
+        "description": "Fabriqués à la main avec motifs symboliques. Chaque tapis raconte une histoire unique.",
+        "city": "Moyen Atlas, Haut Atlas",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Tapis.jpg"
+      },
+      {
+        "id": 31,
+        "title": "Travail du cuir",
+        "description": "Artisanat ancien des tanneries de Fès. Produit sacs, chaussures et accessoires décoratifs.",
+        "city": "Fès",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Cuir.jpg"
+      },
+      {
+        "id": 32,
+        "title": "Poterie de Safi",
+        "description": "Céramiques vernissées décorées de motifs traditionnels. Safi est réputée capitale marocaine de la poterie.",
+        "city": "Safi",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Poterie.jpg"
+      },
+      {
+        "id": 33,
+        "title": "Bijoux amazighs",
+        "description": "Bijoux en argent décorés de pierres et émaux. Souvent liés à des symboles de protection.",
+        "city": "Souss, Anti-Atlas",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Bijoux.jpg"
+      },
+      {
+        "id": 34,
+        "title": "Bois de thuya",
+        "description": "Travail artisanal du bois précieux à Essaouira. Objets sculptés et coffrets finement décorés.",
+        "city": "Essaouira",
+        "status": "aprouved",
+        "last_edit": "2025-06-20",
+        "image": "./image/Bois_thuya.jpg"
+      },
+      {
+        "id": 35,
+        "title": "Broderie de Tétouan",
+        "description": "Art raffiné de la broderie en soie et fil d’or, transmis de génération en génération.",
+        "city": "Tétouan",
+        "status": "appending",
+        "last_edit": "2025-09-22",
+        "image": "./image/Broderie.jpg"
+      }
+    ]
+  },
+  "Events": [
+    {
+      "id": 1,
+      "title": "Festival Mawazine",
+      "description": "Festival international de musique accueillant artistes marocains et internationaux. Célébration de la diversité musicale et culturelle.",
+      "city": ["Rabat"],
+      "start_date": "2025-05-29",
+      "end_date": "2025-06-06",
+      "category": "musique_danse",
+      "status": "appending",
+      "last_edit": "2025-05-14",
+      "image": "./image/Festival_Mawazine.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Festival International du Film de Marrakech",
+      "description": "Festival de cinéma mettant en avant les films marocains et internationaux. Projections, rencontres et ateliers de cinéma.",
+      "city": ["Marrakech"],
+      "start_date": "2025-11-01",
+      "end_date": "2025-11-09",
+      "category": "arts",
+      "status": "appending",
+      "last_edit": "2025-10-17",
+      "image": "./image/Festival_Film_Marrakech.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Semaine Gastronomique de Casablanca",
+      "description": "Événement gastronomique célébrant la cuisine marocaine avec dégustations et démonstrations de chefs.",
+      "city": ["Casablanca"],
+      "start_date": "2025-09-15",
+      "end_date": "2025-09-20",
+      "category": "gastronomie",
+      "status": "appending",
+      "last_edit": "2025-08-31",
+      "image": "./image/Semaine_gastronomique.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Salon du Patrimoine de Fès",
+      "description": "Exposition d’artisanat, d’architecture et de traditions locales. Rencontre avec des maîtres artisans et démonstrations.",
+      "city": ["Fès"],
+      "start_date": "2025-04-10",
+      "end_date": "2025-04-15",
+      "category": "architecture",
+      "status": "appending",
+      "last_edit": "2025-03-26",
+      "image": "./image/Salon_patrimoine.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Festival des Arts Populaires",
+      "description": "Festival célébrant la musique, la danse et l’artisanat marocain. Spectacles et ateliers dans différentes villes.",
+      "city": ["Essaouira"],
+      "start_date": "2025-06-05",
+      "end_date": "2025-06-10",
+      "category": "musique_danse",
+      "status": "appending",
+      "last_edit": "2025-05-21",
+      "image": "./image/arts_populaires.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Salon National de l’Artisanat",
+      "description": "Salon annuel regroupant artisans de tout le Maroc. Exposition de produits traditionnels, démonstrations et vente.",
+      "city": ["Marrakech"],
+      "start_date": "2025-08-01",
+      "end_date": "2025-08-07",
+      "category": "artisanat",
+      "status": "appending",
+      "last_edit": "2025-07-17",
+      "image": "./image/salon_artisanat.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Festival International du Fantasia",
+      "description": "Spectacle équestre traditionnel marocain, démonstration de l’art des cavaliers et costumes. Célébration de la culture amazighe.",
+      "city": ["Meknès"],
+      "start_date": "2025-07-12",
+      "end_date": "2025-07-14",
+      "category": "habits",
+      "status": "appending",
+      "last_edit": "2025-06-27",
+      "image": "./image/Festival_Fantasia.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Fête de la Musique à Rabat",
+      "description": "Concerts gratuits dans toute la ville avec des artistes locaux et internationaux. Célébration de la musique en été.",
+      "city": ["Rabat"],
+      "start_date": "2025-06-21",
+      "end_date": "2025-06-21",
+      "category": "musique_danse",
+      "status": "appending",
+      "last_edit": "2025-06-06",
+      "image": "./image/Fete_musique_rabat.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Festival National de Gastronomie de Marrakech",
+      "description": "Événement dédié aux plats traditionnels et modernes. Ateliers de cuisine et dégustations de produits locaux.",
+      "city": ["Marrakech"],
+      "start_date": "2025-10-05",
+      "end_date": "2025-10-10",
+      "category": "gastronomie",
+      "status": "appending",
+      "last_edit": "2025-09-20",
+      "image": "./image/Festival_gastronomie.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Exposition d’Architecture Contemporaine",
+      "description": "Présentation des projets d’architecture moderne au Maroc. Conférences, visites guidées et débats sur le patrimoine urbain.",
+      "city": ["Casablanca"],
+      "start_date": "2025-03-15",
+      "end_date": "2025-03-20",
+      "category": "architecture",
+      "status": "appending",
+      "last_edit": "2025-02-28",
+      "image": "./image/architecture_contemporaine.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Salon CREMAI",
+      "description": "Salon professionnel de la gastronomie, hôtellerie et métiers de bouche. Présente les innovations, équipements, et tendances culinaires au Maroc et en Afrique.",
+      "city": ["Marrakech"],
+      "start_date": "2025-09-19",
+      "end_date": "2025-09-23",
+      "category": "gastronomie",
+      "status": "aprouved",
+      "last_edit": "2025-09-04",
+      "image": "./image/cremai.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Festival International des Nomades",
+      "description": "Festival célébrant la culture nomade — musique, artisanat, gastronomie, traditions sahariennes. Un lieu de rencontres et de transmission.",
+      "city": ["M’Hamid El Ghizlane"],
+      "start_date": "2025-04-10",
+      "end_date": "2025-04-13",
+      "category": "culture",
+      "status": "aprouved",
+      "last_edit": "2025-03-26",
+      "image": "./image/Festival_Nomades.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Festival Mawazine – Rythmes du Monde",
+      "description": "Grand festival de musiques internationales et cultures du monde, performances variées, artistes locaux et étrangers.",
+      "city": ["Rabat"],
+      "start_date": "2025-06-20",
+      "end_date": "2025-06-28",
+      "category": "musique_danse",
+      "status": "aprouved",
+      "last_edit": "2025-06-05",
+      "image": "./image/Festival_Mawazine.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Jazzablanca",
+      "description": "Festival de jazz et musiques du monde mêlant artistes internationaux et talents locaux. Programme riche en concerts et actes culturels variés.",
+      "city": ["Casablanca"],
+      "start_date": "2025-07-01",
+      "end_date": "2025-07-07",
+      "category": "musique_danse",
+      "status": "aprouved",
+      "last_edit": "2025-06-16",
+      "image": "./image/Jazzablanca.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Semaine Nationale de l’Artisanat",
+      "description": "Événement qui valorise les savoir-faire artisanaux marocains, met en relation artisans, visiteurs, acheteurs, et promeut l’artisanat dans ses multiples formes.",
+      "city": ["Rabat", "Autres villes du Maroc"],
+      "start_date": "2025-02-28",
+      "end_date": "2025-03-05",
+      "category": "artisanat",
+      "status": "aprouved",
+      "last_edit": "2025-02-13",
+      "image": "./image/semaine_artisanat.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Moussem d’Assilah",
+      "description": "Festival culturel annuel mêlant arts plastiques, peinture murale, expositions, poésie et musique dans un cadre historique.",
+      "city": ["Assilah"],
+      "start_date": "2025-07-05",
+      "end_date": "2025-07-30",
+      "category": "culture",
+      "status": "aprouved",
+      "last_edit": "2025-06-20",
+      "image": "./image/moussem_assilah.jpg"
+    }
+  ],
+   "artist_of_the_month": {
+    "id": 1,
+    "full_name": "Ahmed El Mansouri",
+    "description": "Peintre marocain contemporain, connu pour ses œuvres mêlant motifs traditionnels et modernité. Ses créations captivent par leurs couleurs et textures uniques.",
+    "image": "./images/ahmed_el_mansouri.jpg",
+    "start_date": "2025-09-01",
+    "last_edit": "2025-08-20"
+  }
+}
+
+
